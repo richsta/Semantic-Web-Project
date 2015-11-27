@@ -1,2 +1,2 @@
-# Semantic-Web-Project
-iState Semantic Web App
+# iState - Project
+Semantic Web App
