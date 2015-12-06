@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#"
+     xml:base="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#hasSome -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#hasSome">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#State"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#events"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#institutes"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#tweet"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#assaultNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#assaultNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#assaultRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#assaultRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#burglaryNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#burglaryNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#burglaryRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#burglaryRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#categories -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#categories">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#event"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#city -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#city">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#institutes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#favourited -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#favourited">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#tweet"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#institute -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#institute">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#institutes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#larcenyNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#larcenyNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#larcenyRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#larcenyRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#motorVehicleTheftNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#motorVehicleTheftNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#motorVehicleTheftRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#motorVehicleTheftRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#murderNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#murderNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#murderRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#murderRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#name">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#event"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#population -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#population">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#propertyCrimeNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#propertyCrimeNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#propertyCrimeRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#propertyCrimeRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#rapeNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#rapeNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#rapeRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#rapeRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#rating -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#rating">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#event"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#retweeted -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#retweeted">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#tweet"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#robberyNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#robberyNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#robberyRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#robberyRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#text -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#text">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#tweet"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#violentNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#violentNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#violentRate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#violentRate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#State -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#State"/>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#crimes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#events"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#events -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#events">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#institutes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#institutes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#tweet -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#tweet">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/win7/ontologies/2015/10/untitled-ontology-13#State"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+

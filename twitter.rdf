@@ -1,0 +1,1345 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:twitter="http://www.semanticweb.org/dell/ontologies/2015/10/untitled-ontology-13">
+	
+
+		
+<rdf:Description rdf:about="Alabama" rdf:type="http://localhost/iState.owl#Tweet">
+<twitter:mentionedin><twitter:tweet>
+	<twitter:text>Latest AP Top 25 Poll:
+1. Clemson
+2. Alabama
+3. Iowa
+4. Notre Dame
+5. Oklahoma https://t.co/4oef7AWmIM</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+	
+	<twitter:mentionedin><twitter:tweet>
+	<twitter:text>Family of black Alabama teenager who died in police cell still waiting for answers https://t.co/In8151pRX7 #ShenequeProctor</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>This play is illegal in certain levels of football, but it's fair game for this Alabama high school. https://t.co/4rh5htrBih</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Alabama bound!</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @politicalurban: ALABAMA moves to #2 in the coaches poll. LSU has dropped off the poll and AUBURN doesn't even know what the poll is #ro…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Alaska" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Alaska is now the first state to allow smoking in dispensaries! https://t.co/36d8xuDC0N</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>The world's coolest zero-carbon house is in Alaska: https://t.co/CANrIw93Tt https://t.co/G1UFpOCVTV</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#NEW - Alaska Regulators Are 1st to OK Marijuana Use at Pot Shops
+https://t.co/ltBbIpRbRM</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Alaska vs. Oregon (Vine by @FalcyHedgehog) https://t.co/n1TuL0SO6a</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @WordsTexts: "If people were rain, I was drizzle and she was a hurricane" - Looking For Alaska.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Arizona" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>:06 left.
+Tie ballgame.
+But not for long. 
+
+Chandler Catanzaro hit the game-winner. Then hit the dab. #CINvsAZ https://t.co/6DASr8cYEt</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>.@unicornland12 I'm going up with my whole family to Arizona where my bro goes to college to have thanksgiving 😎😜</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>John Brown's hamstrings look pretty healthy in this 18-yard TD catch.
+And even better in his dance. #CINvsAZ https://t.co/x6Ea81DWvC</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @prettycambino: There is a penis the size of an Arizona can on my tl &amp; I just got even more upset</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @airfarewatchdog: The caves of Antelope Canyon in Arizona. Reason enough to fly to Phoenix or Vegas https://t.co/qHxvXRO3cA</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Arkansas" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Time to replace that centerpiece with RED. #BeatMizzou
+
+Trophy 📷 https://t.co/1zRgg1QR98 https://t.co/iq0qYTPzgr</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Only Arkansas fans could argue their 6-5 team -- with losses by double digits to Big 12's 7th best team and Toledo -- is under rated.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>QB @15_DakP Passing Yards Last Five Games: 
+347 - La Tech 
+348 - Kentucky 
+303 - at Missouri 
+300 - Alabama 
+508 - at Arkansas 
+#HailState</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @angiemunozz_: mark said "some girl from arekansus followed me" HAJSJS its Arkansas</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @archpics: Glass chapel in the woods, Arkansas. https://t.co/Lf5msHg62q</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="California" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Who's being fined for water use in dry California? Stingy users, not the rich water hogs. https://t.co/y5suC1SoBF https://t.co/XviRuxyu4m</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>.@JoshuaTreeNPS is a gorgeous &amp; surreal landscape. Pic by Manish Mamtani #California #sunset https://t.co/xX1WIPUnun</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Prince Charles says climate change was a factor driving conflict in Syria. He's right: https://t.co/bGrQojgqlp https://t.co/xzwiibxn0H</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Post nuevo! One Word: #California https://t.co/BloJMF9gfX #SanDiego</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Well-Known Animal Rescuer Accused of Abuse - NBC Southern California https://t.co/Krp8XeL4Pp</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Colorado" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>A new plan for government-run health care that covers everyone is coming from a surprising corner: Colorado: https://t.co/vAty7gSOjq</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>The Dust Bowl affected nearly 100 million acres of land in Texas, Oklahoma, New Mexico, Kansas &amp; Colorado. https://t.co/rZf4IZBp6s</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Congrats to the 2016 @ChevyTrucks Colorado Turbo-Diesel, 2016 @MotorTrend Truck of the Year. https://t.co/mS6typ5j7b</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT dadspestcontrol Home Pest Control Georgetown, CO | Dad's Pest Control - Home Pest Control Georgetown, CO
+Home p… https://t.co/WKcB0ZwjA3</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Texas closely watching Colorado's 'grand experiment' with commercialized marijuana https://t.co/eWmlIkRfDT</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Connecticut" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @hamletgarcia17: Connecticut governor wants guns denied to terror watch list https://t.co/I6Ul7tc28A @GovMalloyOffice @DanMalloyCT #CT</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @hamletgarcia17: Connecticut governor wants guns denied to terror watch list https://t.co/I6Ul7tc28A @GovMalloyOffice @DanMalloyCT #CT</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @hamletgarcia17: Connecticut governor wants guns denied to terror watch list https://t.co/I6Ul7tc28A @GovMalloyOffice @DanMalloyCT #CT</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @hamletgarcia17: Connecticut governor wants guns denied to terror watch list https://t.co/I6Ul7tc28A @GovMalloyOffice @DanMalloyCT #CT</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @hamletgarcia17: Connecticut governor wants guns denied to terror watch list https://t.co/I6Ul7tc28A @GovMalloyOffice @DanMalloyCT #CT</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Delaware" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Cold enough for "bay effect" cloud streamers off Delaware and Chesapeake Bays, New York Harbor too.  Satellite: https://t.co/DsX9qg3n6y</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Wife dies after jumping from moving car during argument with husband in Delaware https://t.co/VtgIJdTeHO https://t.co/761ZJWw3vT</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Nice "Bay-effect" cloud bands under cold NNW flow today off Delaware and Chesapeake Bays !! https://t.co/0fTZkSUf8Y</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Georgia Man Indicted for Drug Trafficking in Delaware #Delaware https://t.co/qjRztLGOb5</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Salisbury Police Get Approval for Body Cameras #Delaware https://t.co/J0RNqocmdE</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="District of Columbia" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Great seats still available for #WizPacers tomorrow. Come see the squad go for 4 in a row: https://t.co/vdfa1mYwbD https://t.co/TbGvq9sYBO</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>The District of Columbia stands with our sister city in the wake of Friday's heinous attacks. https://t.co/DcyBPFa79I</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Owners of Home Health Care Agency found guilty of taking part in $80 Million Medicaid Fraud in District of Columbia
+https://t.co/HRRah6SBqW</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Freedom House is hiring a #Project #Accountant, apply now! #Washington #jobs https://t.co/ZZUGQPdTUK https://t.co/P31KDZo5aO</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Guest #Service Agent - Embassy Suites Washington DC Convention Center https://t.co/c6OSCmbixO</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Florida" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Five nurseries will be allowed to grow and distribute medical marijuana in Florida https://t.co/rlXHMiWR00 https://t.co/RBtLpRbiCV</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Good morning 👍🏽 beautiful day in South Florida</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>BREAKING: Man opens fire inside Florida hospital, facility on lockdown https://t.co/ndvzZevICy https://t.co/pXl4JuzIyl</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @ljpphotos: Liam talking about him singing Ordinary People karaoke in an Applebee's in Florida https://t.co/YyDFKq4NOj</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @SuperiorSkies: Wild skies in Florida! https://t.co/w9wb928lLq</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Georgia" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Breakfast #Bar Attendant needed in #Macon at La Quinta Inns &amp; Suites. Apply now! #jobs https://t.co/t9nlTDN6Nv https://t.co/ggSiaAslsf</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Georgia #Jobs Web Developer II or above: TSYS - Columbus, GA - Web Developer II or above-93507  ... https://t.co/PueBuv16QB #GeorgiaJobs</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Georgia #Jobs Director Culinary Services / Executive Chef: Atria Senior Living - Atlanta, GA - J... https://t.co/3wcgdSrpaz #GeorgiaJobs</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Georgia #Jobs RN Travel Nurse: Parallon - Meansville, GA - Seeking Registered Nurses for Travel ... https://t.co/Mlpl3nhlDL #GeorgiaJobs</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Georgia Man Indicted for Drug Trafficking in Delaware #Delaware https://t.co/qjRztLGOb5</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Hawaii" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>13 openings (for now): Hawaii, Illinois, Iowa State, Maryland, Miami, Mizzou, North Texas, South Carolina, Syracuse, UCF, ULM, USC, Va. Tech</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Take me to Hawaii ☀️🌴 https://t.co/wNawtNja4y</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Hawaii calling | #BillabongPipeMasters @RealOwenWright Photo: @kellyc001 https://t.co/QuwsQtFgWj</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @CarCrashesTV: Hawaii Plane Crash Caught on Tape | ABC News https://t.co/PHqMww7VmU https://t.co/QGCWEO5Mfb</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @WorIdStarComedy: This Is A Hawaii HighSchool Football Game... Yeah A HIGHSCHOOL Game https://t.co/ElMj4KZVWl</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Idaho" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>"Don't drink water when you're studying chemistry, it will dilute your concentration." — University of Idaho</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Daily dose of cute! Two baby foxes spotted near Pocatello, #Idaho #nature 🐺🐺 https://t.co/MkrDwOYOYM</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Major shoutout to Boise Idaho for not only supporting my "What Now Tour" but for welcoming me to your city with open arms!!!!</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>San Jose State running back: Big production in a small package - Idaho Statesman https://t.co/HxjuAG0snE</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>@WazzusJobu @SJCsouthpaw I watched that 2007 tear Idaho a new one. June Jones really worked magic over there.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Illinois" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Sufjan Stevens to release Illinois 10th anniversary edition featuring new @Marvel cover art https://t.co/QoJMkVkeGM https://t.co/BgIMYLgYDd</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>No. 2 SEED...  
+
+ILLINOIS STATE REDBIRDS! #FCSPlayoffs https://t.co/j8e8FV0ZR2</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>13 openings (for now): Hawaii, Illinois, Iowa State, Maryland, Miami, Mizzou, North Texas, South Carolina, Syracuse, UCF, ULM, USC, Va. Tech</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>💎💞 we were supposed to be roommates 😓😭 I'm glad you're having fun at Illinois though...I hope you're still trying out next year!?</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>OK Marsha in Pocahontas Illinois,  Who Else Needs This. Join Our Site Free. Extra Quality Traffic. https://t.co/JfKqnPPsPY</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Indiana" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Breaking News: Shooting on campus at Indiana University-Purdue University Indianapolis https://t.co/sYs6by6RfN</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Wake Forest upsets No. 13 Indiana! Bryant Crawford's layup w/ 5 seconds left hands Hoosiers 1st loss of the year. https://t.co/RQtqbfJBTi</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Wake Forest upsets #13 Indiana on Bryant Crawford's layup w/ 3.2 left. WF ends game on 19-6 run. https://t.co/5kYDRa7uj3</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Indiana governor sued for halting Syrian refugee resettlement - USA TODAY https://t.co/hBN3oLKmb7 https://t.co/SmDQTiKmtI</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Marshall County: Special Weather Statement issued November 24 at 3:45AM EST by NWS: ...PATCHY DENSE FOG AND SL... https://t.co/gPD4MxKl9C</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Iowa" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Iowa State has fired head coach Paul Rhoads. The Cyclones are just 3-8 on the year. (via ESPN and multiple reports) https://t.co/NobNNYjqCU</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Latest AP Top 25 Poll:
+1. Clemson
+2. Alabama
+3. Iowa
+4. Notre Dame
+5. Oklahoma https://t.co/4oef7AWmIM</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Watch a time lapse video of an Iowa football stadium filling with snow every time they clear it out https://t.co/LvrusxNP5u</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @SportsCenter: Updated CBB AP top 10:
+1) Kentucky
+2) Maryland
+3) Michigan State
+4) Iowa State
+5) Kansas
+6) Duke
+7) Oklahoma
+8) Villanova…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>New #job opening at Ryder in #CedarRapids - #APPLY #TODAY!! #jobs https://t.co/U2tQ48qh3o https://t.co/17cqfNOF3G</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Kansas" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>At 346 pounds, Dontari Poe became the heaviest player to score a rushing TD in NFL history: https://t.co/YO3n1sWdUd https://t.co/XCGSKslazl</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Kansas City is on a roll! Chiefs have won 4 straight, including today's 33-3 win over Chargers, after starting 1-5. https://t.co/3hUfKIxxSx</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Rustin Dodd on Kansas AD's letter to NCAA's Oliver Luck: https://t.co/9wRopfk3cO Time for the NCAA to punt, egg on face. Clear Diallo.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @SportsCenter: Updated CBB AP top 10:
+1) Kentucky
+2) Maryland
+3) Michigan State
+4) Iowa State
+5) Kansas
+6) Duke
+7) Oklahoma
+8) Villanova…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @CJMooreBR: When will the potential of Svi Mykhailiuk turn into production? My feature on Cherkasy's favorite son: https://t.co/xjzTHc47…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Kentucky" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>POLL ALERT: Kentucky men No. 1 in Top 25 after North Carolina loss. Full poll here shortly: https://t.co/eqm31yBgxu https://t.co/AUSqJ8DTTp</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>After a 74-63 win by the one and only BBN over them Dukies, @tyusjones06 had to rock that Kentucky 🔵… https://t.co/QU1EfuPezz</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>New AP poll: https://t.co/s7WAMX9PSe
+1. Kentucky
+2. Maryland
+3. Michigan State
+4. Iowa State https://t.co/8eWSAVS4im</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @SportsCenter: Updated CBB AP top 10:
+1) Kentucky
+2) Maryland
+3) Michigan State
+4) Iowa State
+5) Kansas
+6) Duke
+7) Oklahoma
+8) Villanova…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @RealFKNNews: Mitch McConnell's yacht...Kentucky
+
+Your Drug Trafficker in the Senate! https://t.co/mLYbrKh2dC</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Louisiana" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Louisiana just voted to give a quarter of a million people health care https://t.co/RwGGY7XRwS https://t.co/loel2stVGM</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Sixteen people hospitalized after New Orleans shooting: local media https://t.co/woV6sFwBuL</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>We are opening a new chapter for Louisiana. Thank you to all who believed from the beginning &amp; came together to put our future first! #lagov</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @Adel__Almalki: #News by #almalki : Man arrested in student shooting caught on video in New Orleans https://t.co/URvDy64H6X</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Crystal Louisiana Hot Sauce🔥❤️ https://t.co/QvGv1akHQf</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Maine" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>What Kalyeserye's Cindy thinks of Maine Mendoza in real life #ALDUBRunAway https://t.co/JRRr2AddyX https://t.co/xhZh0uTJjt</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Maine Rocked by Refugees, via @LifeZette https://t.co/Lde6IhJofa</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>University of Maine debuting ocean simulator to test sea-bound technology like wind turbines, aquaculture: https://t.co/1Iov2eowWU</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @ryan_agonciLLo: Maine capturing Alden! "BFF" Goals talaga kayo! So much kilig in this pic!
+@mainedcm
+#ALDUBPleaseDontGo ©ⓣⓣⓞ https://t.…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @MaiDenCupcakes: IG Update | Alden and Maine with Mr. andrew Garcia.
+Siomaaaai! HAHAHA
+#ALDUBPleaseDontGo https://t.co/lUSTIxf28F</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Maryland" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>13 openings (for now): Hawaii, Illinois, Iowa State, Maryland, Miami, Mizzou, North Texas, South Carolina, Syracuse, UCF, ULM, USC, Va. Tech</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>New AP poll: https://t.co/s7WAMX9PSe
+1. Kentucky
+2. Maryland
+3. Michigan State
+4. Iowa State https://t.co/8eWSAVS4im</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>BBall: Terps Move Up to No. 2 in AP Top 25: After starting the season 3-0, the Maryland men's basketball team ... https://t.co/r6A32OTJav</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @SportsCenter: Updated CBB AP top 10:
+1) Kentucky
+2) Maryland
+3) Michigan State
+4) Iowa State
+5) Kansas
+6) Duke
+7) Oklahoma
+8) Villanova…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>@EXCLUSIVEANT they don't even know what a helly is, gogo music, shy glizzy, mumbo sauce,or the slang where I live they think dc in Maryland😂</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Massachusetts" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Massachusetts is abandoning the Common Core test https://t.co/kGHqVbn0H6</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>The first Canadian Thanksgiving was celebrated 43 years before the pilgrims landed in Plymouth, Massachusetts.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Prosecutors: Photos show teen disposing of teacher's body https://t.co/zwDvTk85qC</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Graduate #Assistant Housing and Residence Life (Temporary) https://t.co/60Bpg0waeU https://t.co/3NyBlUMCWa</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @CNN: Teen "dumped body" after rape, murder of teacher, prosecutors say: https://t.co/3VRquF2aKj https://t.co/xHwpY3Boz8</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Michigan" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Sad news out of Michigan: Former coach Lloyd Carr's 5-year-old grandson dies after bout w/ brain cancer. #ChadTough https://t.co/Pop9bmXSF8</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Live look at Michigan State's kicker 18 hours later: https://t.co/EGVpxsorbf</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Rawls: "I'm going to send a game ball back to Flint, Michigan. Shout out to my city."
+
+#SFvsSEA</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Latest: Michigan boy, 4, talks for first time with new voice box https://t.co/mHQZS1Vd7y https://t.co/84dhJylvvI</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @SportsCenter: Updated CBB AP top 10:
+1) Kentucky
+2) Maryland
+3) Michigan State
+4) Iowa State
+5) Kansas
+6) Duke
+7) Oklahoma
+8) Villanova…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Minnesota" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Packers snap 3-game losing streak by beating Vikings, 30-13. Aaron Rodgers improves to 10-1 vs Minnesota since 2010. https://t.co/GVSPkzbMhx</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Aaron Rodgers throwing darts on the run.
+James Jones with that #ToeDragSwag.
+Touchdown. #GBvsMIN https://t.co/Qi3IHghojf</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Pro Tip:
+
+You might want to cover Randall Cobb in the red zone. #GBvsMIN https://t.co/nISGeQCnap</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @BuzzFeedNews: Here's what we know about the shooting near the #4thPrecinctShutDown protest in Minneapolis https://t.co/7s0xKqVcu1 https…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>14/15 O Pee Chee OPC Hockey Marquee Legends Dwayne Roloson #593 Minnesota Wild https://t.co/4cZFQ0kKyI https://t.co/5US5Fbzvvt</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Mississippi" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Yo @skatemaloley go snatch the mic and come in with "met a bad biddy from the state of Mississippi" on everyone</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Got to speak at South Bethel Church in Tipton, IA -- oldest continually running country church west of Mississippi. https://t.co/QyqDdqySHw</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Face transplant recipient receives warm welcome home 3 months after surgery: https://t.co/4sg0RKvgjw https://t.co/5zeOImrVNl</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>No. 19 Ole Miss and No. 22 Mississippi State prepare for annual Egg Bowl game #Memphis https://t.co/gZAolQH9eG https://t.co/JRpRqf3vLs</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Hey Glen in Mccomb Mississippi &gt;&gt;  Extra Quality Traffic. Join Our Site Free. Who Else Needs This.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Missouri" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>On tomorrow's @washingtonpost front page: my piece from the University of Missouri https://t.co/XxOFxxmrAX</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>QB @15_DakP Passing Yards Last Five Games: 
+347 - La Tech 
+348 - Kentucky 
+303 - at Missouri 
+300 - Alabama 
+508 - at Arkansas 
+#HailState</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#AP10Things: Brussels on high alert over attack threat; how the University of Missouri's race protests began https://t.co/MCeiybRf5q</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Hey Ray in Zalma Missouri &gt;&gt;  Extra Quality Traffic. Who Else Needs This. Join Our Site Free.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>OK Pablo in Portage Des Sioux Missouri,  600 000 Prospects. Have You Joined Yet. Waiting to View Ads. https://t.co/AZbyqIcp0w</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Montana" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>HANNAH MONTANA'S ID EXPIRES TODAY https://t.co/24ilV5oOK2</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Friendly reminder that Miley Cyrus' Hannah Montana ID expires today: https://t.co/2u7LLVLoV8 https://t.co/Kn70o6RVP0</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Hillary gotta link with French Montana if she wants a chance https://t.co/Uri6SNmVSB</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @FreakingTrue: HANNAH MONTANA'S ID EXPIRES TODAY https://t.co/AvRXUVZnYp</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Dan Marino fathering a child out of wedlock is still less embarrassing than Joe Montana in a Skechers commercial.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Nebraska" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>"@beingmesuzieeJ: @realDonaldTrump... You ROCKED IT AGAIN IN OHIO!!!! Come to Nebraska.. Please!! Trump 2016!!" Thanks and I will!</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Not sure how anyone can compare the Les situation to Pelini at Nebraska. One of them actually won big games.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>New @AVCAVolleyball poll: https://t.co/GObCRptrwX
+1. USC
+2. Washington
+3. Texas
+4. Minnesota
+5. Nebraska
+#NCAAVB https://t.co/nvdDwMztpZ</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>I'm in Nebraska</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>We make a good ear of corn, Ingo and Emmet.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Nevada" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Holiday travelers be warned: Huge snowstorm coming to Sierra Nevada https://t.co/5syRcMsZ2r https://t.co/C9JuQlBa2X</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>The ballroom at the Pahrump Nugget hotel in Nevada is full for @RealBenCarson's rally today. https://t.co/NOzLid5uwn</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Nevada Girl Makes School Pay After They Denied Her Pro-Life Club https://t.co/miCvRjC31w https://t.co/XF928ihioE</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#LasVegas #Job Medical Office Specialist - HCA (Las Vegas, Nevada): The HCA Physician Services Group (PSG) is ... https://t.co/g8Efkr4g1b</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#LasVegas #Job Medical Assistant - HCA (Las Vegas, Nevada): The HCA Physician Services Group (PSG) is the phys... https://t.co/eupqzZNuni</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="New Hampshire" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#FCSPlayoffs 1st Round: Colgate at New Hampshire - 3:30 pm ET https://t.co/kKgSTmyhTT</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Marco Rubio is rising in New Hampshire, poll shows https://t.co/kyEiFUnrZG</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>.@realDonaldTrump faces challenges on his eligibility for the New Hampshire ballot https://t.co/cCyEOJT9ry https://t.co/hv8w6zWJ8w</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT GetPesContrJobs Residential Pest Control Technician - #Lebanon , NH (https://t.co/tkIWfLwwZs) Get Pest Control Jobs #PestControl #jobs #…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>News_NH_USA: A tough task ahead Lawmakers tackle drug crisis #NewHampshire https://t.co/DJwTfzNo9N</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="New Jersey" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Trump says he watched "thousands and thousands of people" in New Jersey cheer on 9/11 https://t.co/vSGAJ1oE4o https://t.co/xu1zLWfX7L</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Via @washingtonpost 9/18/01. I want an apology! Many people have tweeted that I am right! https://t.co/CpsMxs54qv https://t.co/wrDEhXJlvR</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Donald Trump: "Thousands" of people in New Jersey cheered on 9/11. Pants on Fire! https://t.co/vSGAJ1GfsY https://t.co/Hdw3wMpHv4</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @MaineAlden16: OFC ALDUB|MAIDEN NATION NEW YORK &amp; NEW JERSEY CHAPTER 2nd GT!! Naks na BILLBOARD! KAYO NA GUYS!
+
+#ALDUBPleaseDontGo https…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @MaineAlden16: OFC ALDUB|MAIDEN NATION NEW YORK &amp; NEW JERSEY CHAPTER 2nd GT!! Naks na BILLBOARD! KAYO NA GUYS!
+
+#ALDUBPleaseDontGo https…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="New Mexico" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>40% of Navajo Americans live without running water. Help bring running water to 205 homes in rural New Mexico. 
+
+https://t.co/9rU2zFrY80</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Exclusive: 150 on flight from Mexico allowed to skip customs, leave JFK airport https://t.co/sXDFo6hogX https://t.co/oiO2eKZjAU</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>The Dust Bowl affected nearly 100 million acres of land in Texas, Oklahoma, New Mexico, Kansas &amp; Colorado. https://t.co/rZf4IZBp6s</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Need to go to new mexico</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>@Pouyalilpou missed the show in New Mexico how bad did I miss out</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="New York" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Make that 3 in a row for the Texans! Houston defeats New York, 24-17, to get to 5-5 on the season. https://t.co/jAoCXUtPn3</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>This will be fun! New York see ya there https://t.co/NpuynWuwpg</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>**J.J. WATT PLAYING OFFENSE ALERT**
+
+J.J. is 3-for-3 in catching all balls thrown to him for a TD
+This one? Oh boy.. https://t.co/AukrC7qUeJ</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT https://t.co/7JmNtb6Gc7 Related News: Not buying a home was my smartest financial move -New York Daily News- https://t.co/RsFLewcYHd</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>New York photography serie by @PabloAlbacete1
+https://t.co/3nyxiIxcwA</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="North Carolina" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>POLL ALERT: Kentucky men No. 1 in Top 25 after North Carolina loss. Full poll here shortly: https://t.co/eqm31yBgxu https://t.co/AUSqJ8DTTp</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>13 openings (for now): Hawaii, Illinois, Iowa State, Maryland, Miami, Mizzou, North Texas, South Carolina, Syracuse, UCF, ULM, USC, Va. Tech</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>2 days, 2 national championships!
+
+Syracuse adds to trophy haul as field hockey team defeats North Carolina,4-2. #ncaaFHockey 🍊🏑🏆</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Yes Bobbi in Creswell North Carolina &gt;&gt;  Have You Joined Yet. Waiting to View Ads. 600 000 Prospects.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RPM PROFESSIONAL FLOOR SERVICES LLC Concord, North Carolina  
+https://t.co/FOOoSoBnhU https://t.co/0vpG0qQbdC</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="North Dakota" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Congrats North Dakota State!   
+
+@NDSUfootball will be one of the top 4 seeds in the #FCSPlayoffs. https://t.co/6wp9flYhdF</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>The once unthinkable has finally happened in North Dakota https://t.co/1ugnwvm69F https://t.co/8TpYZGbwRu</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>North Dakota's Northern Lights were #NDLegendary this fall, I wonder how active they will be this winter? https://t.co/mUZiOW9XPv</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @USFWSMtnPrairie: Help us catch a bald eagle killer. A reward is available. Callers may remain anonymous. https://t.co/EJHvAVDWFi https:…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>National Guard is hiring a #31B #Military Police - Police Officer, apply now! #Fargo #jobs https://t.co/P8vU5jqT3b</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Ohio" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>With Saturday's win at Ohio State, @MSU_Football's senior class has now won in every Big Ten Stadium.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Going to Ohio, home of one of the worst presidential candidates in history--Kasich. Can't debate, loves #ObamaCare--dummy!</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Going to Columbus, Ohio today for a tremendous rally of thousands. The silent majority is no longer silent!</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Houston's WR Cecil Shorts came from Mount Union in Ohio which is D3 👌🏼  https://t.co/UuZYhKIX0Y</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>For Rebekah in Cumberland Ohio,  Extra Quality Traffic. Join Our Site Free. Who Else Needs This. https://t.co/3GXqW9nUZz</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Oklahoma" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Latest AP Top 25 Poll:
+1. Clemson
+2. Alabama
+3. Iowa
+4. Notre Dame
+5. Oklahoma https://t.co/4oef7AWmIM</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Only two schools ranked in top 7 in nation in both football &amp; basketball: Michigan State (Dantonio/Izzo) &amp; Oklahoma (Stoops/Kruger)</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>The Bears grabbed the nation's attention with a win at No. 4 Oklahoma State on Saturday night. #SicEm https://t.co/vzHF4BwQvm</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @SportsCenter: Updated CBB AP top 10:
+1) Kentucky
+2) Maryland
+3) Michigan State
+4) Iowa State
+5) Kansas
+6) Duke
+7) Oklahoma
+8) Villanova…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @LaurindaSeabra: Experts say it’s only a matter of time before the “big one” shakes Oklahoma https://t.co/oUerr13cYE</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Oregon" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Oregon will be ready for its "Civil War" against Oregon State with camouflage-themed uniforms. (via @WinTheDay) https://t.co/1ko1DzGcqv</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Oregon Ducks unveil new threads for Civil War game vs. Oregon State https://t.co/xL0ym5avx5 https://t.co/Y4ScPv3Nix</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>"I hate when I gain ten pounds for a role only to realize I'm not even an actor wtf?" — Oregon State</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Alaska vs. Oregon (Vine by @FalcyHedgehog) https://t.co/n1TuL0SO6a</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT https://t.co/2TJSlataRc https://t.co/JEQMhFk21a |  #Portland, Oregon Excel Earth Energy #solar #panels #energ… https://t.co/MrhWSSNZiU</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Pennsylvania" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Steelers survive injuries to remain in the mix -- RT if you think they'll make the playoffs! https://t.co/6NBzEX7ZcE https://t.co/OXEYNR9Ust</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>VIDEO: Former Pennsylvania governor wears bag over head on TV after @Eagles latest loss  https://t.co/tDvY45jsV2 https://t.co/olx44VRSlE</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Former Pennsylvania Gov. Ed Rendell wears bag on head after Eagles lose https://t.co/V75wscFcCS https://t.co/5Yib7nM30W</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Registered #Nurse-Telemetry (Per Diem) https://t.co/hyeUHlyuDi https://t.co/dML7IskZe3</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @hamletgarcia17: Today: #Pennsylvania  Medical Marijuana Patients, Families To Make Plea To Lawmakers https://t.co/BBLev2Gl0r @Daylin4Co…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Rhode Island" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Curt Schilling likely getting subpoenaed today for his Rhode Island shenanigans https://t.co/GfTcqvJc2m via @HardballTalk</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Rhode Island: Minke whale that was stuck off Kingston swims free: https://t.co/3y5cefOMVp</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RI wants to become the first to adopt blended learning statewide. See how one school has made the change: https://t.co/7QEE7njuY1</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @justinbieber: Why is rhode  island nor a road or an island</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @justinbieber: Why is rhode  island nor a road or an island</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="South Carolina" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>13 openings (for now): Hawaii, Illinois, Iowa State, Maryland, Miami, Mizzou, North Texas, South Carolina, Syracuse, UCF, ULM, USC, Va. Tech</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#TeamTrumpBehindScenes in South Carolina w/ a packed arena of supporters. #Trump2016 #MakeAmericaGreatAgain https://t.co/cc9FMLV9Ym</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Now 12 FBS openings: Hawaii, Illinois, Iowa State, Maryland, Miami, Missouri, North Texas, South Carolina, UCF, ULM, USC, Virginia Tech</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>South Carolina man 'was repeatedly hit by Derriere's Gentlemens Club dancer' https://t.co/KjkP8jo4IL</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Show star Wars: The Force Awakens' Harrison Ford &amp; Carrie Fisher on Jimmy Kimmel - South Carolina SC (press… https://t.co/JdPyHb4yq4</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="South Dakota" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#FCSPlayoffs 1st Round: South Dakota State at Montana - 3 pm ET https://t.co/4w2T7OEMUR</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Photo: The setting sun paints the summer storm clouds above South Dakota's Badlands https://t.co/enFond7ph1</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Great read from @grahamhays.
+
+#GoJacks
+
+READ: https://t.co/X1nrIPsbkB</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Dwayne Slaathaug, 90 #SouthDakota https://t.co/11gw3EVTo8</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Watch out for that tree! #SouthDakota https://t.co/NVd4Mjpze3</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Tennessee" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Can Newton, as always, gives the ball to a kid in the stands. And somewhere in Tennessee, a Mother instructs her daughter to look away.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Millions of spiders appear in giant web in Tennessee https://t.co/2aXV0YXWi7</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>well played https://t.co/2oEQRl2TKR</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Funding Board sets moderate growth projection in Tennessee https://t.co/LRoARF6KcH</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Neighbors with car, RV burned ask for help to find person of interest | UPDATE #Tennessee https://t.co/eU9nTYweSz</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Texas" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>DALLAS TEXAS tell me do you copy?? https://t.co/2Ru7EZ24jN</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>On #ThisDayInHistory 1963, JFK is assassinated in Dallas, Texas. https://t.co/UJ8Abmcnfg https://t.co/OnQ7c4WQic</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Proud to #StandWithPP in the fight for affordable health care. Don’t mess with Texas women's health. https://t.co/PnxV6yI5Xv</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @Libertea2012: Federal court strikes down Wisconsin anti-abortion law similar to Texas statute https://t.co/GL8m0vt5FE #UniteBlue https:…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>What Texas Police Do To This Family Down On Their Luck Has People Talking https://t.co/mgmQVkY61Z</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Utah" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>KD (18 on 6/7 FGA) is back for @okcthunder, who have a 63-46 lead over @utahjazz at haltime. Hayward has 8 for Utah. https://t.co/4FSpI0xSF1</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#FCSPlayoffs 1st Round: Southern Utah at Sam Houston State - 3 pm ET https://t.co/LXAD3hHzL0</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Kevin Durant WILL return to the Thunder lineup tonight at Utah.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @earthXplorer: Beauty of the Trees #ParkCity #Utah 
+
+#travel #photography #Adventure #earthXplr
+
+https://t.co/FJeOr7ZUyt https://t.co/Ca…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @earth___planet: Double Arch and Milky Way stars at Arches National Park in Utah #USA
+Found on https://t.co/NUewE2onc4 https://t.co/iDIp…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Vermont" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>One of our favorite holiday movies​ was filmed at this gorgeous Vermont home: https://t.co/pZLFDvh3xR https://t.co/yjtbXfTFfR</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>A remarkable memoir of two years as a hermit in the Vermont woods: https://t.co/C6HIdKR0IZ https://t.co/28NSBwNrM1</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Interesting twist: All white gatherings back in style on campus? https://t.co/6wiSiST1l9</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>#Having #Trouble with Your Sales Territory Manager Job? Become an Avon I https://t.co/CLK2hLwJxA</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @TRVSHPRINCSS: "the only things in vermont were maple syrup and erin"</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Virginia" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>DEVELOPING: Animal Control officers have seized dozens of puppies from pet shop in Virginia https://t.co/yyBtySnU06 https://t.co/pHIIMkCgPc</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Even though Paul Rhoads has been fired, he will coach Iowa State’s finale at West Virginia Saturday</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Now 12 FBS openings: Hawaii, Illinois, Iowa State, Maryland, Miami, Missouri, North Texas, South Carolina, UCF, ULM, USC, Virginia Tech</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>@selkiemoonbooks Thanks for sharing Virginia! Those are some of my favorite bloggers! Follow them and you'll get lots of tips and advice!</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>News in Brief: Sudden Death Of Aunt Creates Rupture In Family Gossip Pipeline: VIRGINIA… https://t.co/Bfr5TKNvEz</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Washington" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>You like THAT #PantherNation? Carolina improves to 10-0 with a trademark victory over Washington! #KeepPounding https://t.co/NOEsXsHgf7</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Warriors: 15-0, tie best start to a season in NBA history
+
+1948-49 Washington Capitols (15-0)
+1993-94 Rockets (15-0) https://t.co/sieKpPVf1S</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>VIDEO: Cam Newton hands out touchdown footballs to young fans during win vs. Washington https://t.co/AVObdiKG8Q https://t.co/MpXDczpfK1</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>US Engine Dilemma: No Space Without Moscow: Moscow (Sputnik) Nov 24, 2015
+
+Washington continues to purchase rocket engines from Mosco...</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Obama recognizes 17 with nation's highest civilian award: WASHINGTON (AP) — President Barack Obama will recogn... https://t.co/jK2TF3lnTb</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="West Virginia" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Even though Paul Rhoads has been fired, he will coach Iowa State’s finale at West Virginia Saturday</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Paul Rhoads fired as Iowa State coach, ISU confirms. Rhoads will coach in season finale at West Virginia. https://t.co/Gp8wN3Gmp8 #cyclones</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Kevin White has another brother heading to West Virginia. DB Kyzir White is No. 20 in ESPN JC 50 https://t.co/FeURzg4SiN</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Are Unions Losing Their Grip in West Virginia? https://t.co/Vorf8kPj6E</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Attn Diane in Sutton West Virginia &gt;&gt;  600 000 Prospects. Have You Joined Yet. Waiting to View Ads.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Wisconsin" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Storms have blanketed the Midwestern US with snow, much to the delight of this polar bear at a zoo in Wisconsin https://t.co/97RFUDcoi5</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>BREAKING: Court: Hospital admitting requirements for Wisconsin abortion providers unconstitutional.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Polar bear loves wintry weather, plays in snow at Wisconsin zoo https://t.co/gswZP4LgVP
+https://t.co/myGQheDAFv</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @Libertea2012: Federal court strikes down Wisconsin anti-abortion law similar to Texas statute https://t.co/GL8m0vt5FE #UniteBlue https:…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Yes Patrick in Suring Wisconsin,  Extra Quality Traffic. Join Our Site Free. Who Else Needs This. https://t.co/OBKQIhheDD</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Wyoming" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Our most popular pic last week: A bighorn sheep defying gravity @NatlElkRefuge #Wyoming 🐑 #nature https://t.co/kIkbqXWGWQ</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Your Rebels close out the season this Saturday at 11 AM against Wyoming. Watch it live on @ROOTSPORTS_RM https://t.co/xUbAfagOCA</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Check it out! Satellite image from today shows a band of snow on the ground from #Wyoming to #Ohio! #12news https://t.co/OgsbnaTVrj</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>@TreyB3M do yall goto Wyoming soon?</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>No, #Science has not made the case 4 a #god https://t.co/MEIVgn65EL … #Wyoming #NorthDakota #SouthDakota #Illinois #Florida #Oklahoma #TX</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Puerto Rico" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>CONCACAF Olympic women's qualifying draw results: 
+Group A: USA, Puerto Rico, Mexico, Costa Rica
+#CWOQ2016</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Champs! Miami holds off No. 22 Butler, 85-75, to win Puerto Rico Tip-Off.
+
+Stats: https://t.co/mZVjHIf9zh https://t.co/Xrics6SuA3</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Creditors Signal Potential Support for Overhauling Puerto Rico Debt https://t.co/oZbHXdSKLq</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @9GAGTweets: Big Ass Crab in Puerto Rico. Captain? https://t.co/Khx8pXogLu</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>Marc Jacobs' dog Neville is helping the less fortunate https://t.co/70jLRjPsjh</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="Virgin Islands" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>@spicegyalt ooh my family is from Virgin Islands</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @AjaiTewari: Complex web of money trails stretching far 4rm Netherlands to Caymon to Virgin Islands, NDTV is everything sans broadcastin…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @AjaiTewari: Complex web of money trails stretching far 4rm Netherlands to Caymon to Virgin Islands, NDTV is everything sans broadcastin…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @AjaiTewari: Complex web of money trails stretching far 4rm Netherlands to Caymon to Virgin Islands, NDTV is everything sans broadcastin…</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>We have St. John Virgin Islands, St. Thomas Virgin Islands, St. Croix Virgin Islands and Puerto Rico https://t.co/yRQNAFGaMt</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+<rdf:Description rdf:about="U.S. Virgin Islands" rdf:type="http://localhost/foodOntology.owl#Tweet"><twitter:mentionedin><twitter:tweet>
+	<twitter:text>A history of the "Virgin Island Five", a group of activists accused of murdering eight people in the U.S. Virgin Islands.</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>RT @TheBigSpur247: FINAL: South Carolina wins U.S. Virgin Islands Paradise Jam by defeating Tulsa 83-75. USC shoots 50%. Gamecocks improve …</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>VIOL: U.S. Virgin Islands Travel Forum: St. John • If you will be on STJ in the next two to three weeks https://t.co/FxxUKEbNFz</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>From VIOL:  VIOL Forum:  U.S. Virgin Islands Travel Forum: St. John • If you will be on STJ in the next two to… https://t.co/zVPpjiaRqQ</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin><twitter:mentionedin><twitter:tweet>
+	<twitter:text>VIOL Forum:  U.S. Virgin Islands Travel Forum: St. John • If you will be on STJ in the next two to three weeks https://t.co/cTJINvW3tC</twitter:text>
+	<twitter:retweeted>False</twitter:retweeted>
+	<twitter:favorited>False</twitter:favorited>
+	</twitter:tweet></twitter:mentionedin>
+</rdf:Description>
+</rdf:RDF>
